@@ -1,0 +1,48 @@
+﻿Ledge A (Meadow A)|段差A（草地A）
+Hedge|生け垣
+Wall B (Ivy)|壁B（ツタ）
+Wall N (Ivy)|壁N（ツタ）
+Ledge B (Road)|段差B（道）
+Ledge C (Road)|段差C（道）
+Ledge D (Road)|段差D（道）
+Ledge E (Road)|段差E（道）
+Cliff|崖
+Hedge|生け垣
+Wall B (Ivy)|壁B（ツタ）
+Wall N (Ivy)|壁N（ツタ）
+Wall O (Ledge B)|壁O（段差B）
+Wall P (Ledge C)|壁P（段差C）
+Wall Q (Ledge D)|壁Q（段差D）
+Wall R (Ledge E)|壁R（段差E）
+Wall A|壁A
+Wall B|壁B
+Wall C|壁C
+Wall D|壁D
+Wall E|壁E
+Wall F|壁F
+Wall G|壁G
+Wall H|壁H
+Wall A|壁A
+Wall B|壁B
+Wall C|壁C
+Wall D|壁D
+Wall E|壁E
+Wall F|壁F
+Wall G|壁G
+Wall H|壁H
+Wall I|壁I
+Wall J|壁J
+Wall K|壁K
+Ledge F|段差F
+Ledge G (Cobblestones C)|段差G（石畳C）
+Roof|屋根
+|
+|
+Wall I|壁I
+Wall J|壁J
+Wall K|壁K
+Wall L (Ledge F)|壁L（段差F）
+Wall M (Ledge G)|壁M（段差G）
+Roof|屋根
+|
+|

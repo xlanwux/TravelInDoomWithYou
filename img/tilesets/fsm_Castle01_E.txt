@@ -1,0 +1,256 @@
+﻿Large Topiary A|大きなトピアリーA
+Large Topiary A|大きなトピアリーA
+Large Topiary B|大きなトピアリーB
+Large Topiary B|大きなトピアリーB
+Topiary A|トピアリーA
+Topiary B|トピアリーB
+Topiary C|トピアリーC
+Bridge (V)|橋（縦）
+Large Topiary A|大きなトピアリーA
+Large Topiary A|大きなトピアリーA
+Large Topiary B|大きなトピアリーB
+Large Topiary B|大きなトピアリーB
+Topiary A|トピアリーA
+Large Topiary C|大きなトピアリーC
+Large Topiary C|大きなトピアリーC
+Bridge (H)|橋（横）
+Large Topiary A|大きなトピアリーA
+Large Topiary A|大きなトピアリーA
+Large Topiary B|大きなトピアリーB
+Large Topiary B|大きなトピアリーB
+Topiary D|トピアリーD
+Large Topiary C|大きなトピアリーC
+Large Topiary C|大きなトピアリーC
+Bridge (H)|橋（横）
+Topiary Arch|トピアリーアーチ
+Topiary Arch|トピアリーアーチ
+Topiary Arch|トピアリーアーチ
+Plinth|台座
+Plinth (Flowers)|花の台座
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Topiary Arch|トピアリーアーチ
+Topiary Arch|トピアリーアーチ
+Topiary Arch|トピアリーアーチ
+Plinth (Angel, Right)|天使の台座（右向き）
+Plinth (Angel, Left)|天使の台座（左向き）
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Topiary Arch|トピアリーアーチ
+Shadow (Topiary Arch)|トピアリーアーチの影
+Topiary Arch|トピアリーアーチ
+Plinth (Angel, Right)|天使の台座（右向き）
+Plinth (Angel, Left)|天使の台座（左向き）
+Iron Fence|鉄柵
+|
+Iron Fence|鉄柵
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Grave A|墓A
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Offered Flowers|お供えの花
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Grave B|墓B
+Grave C|墓C
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Pedestal A|台座A
+Pedestal (Top A)|台座（上A）
+Pedestal A|台座A
+Grave D|墓D
+Grave B|墓B
+Grave C|墓C
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Pedestal A|台座A
+Pedestal (Bottom A)|台座（下A）
+Pedestal A|台座A
+Shrine|ほこら
+Shrine|ほこら
+Shrine|ほこら
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Pedestal B|台座B
+Pedestal (Top B)|台座（上B）
+Pedestal B|台座B
+Shrine|ほこら
+Entrance (Shrine)|ほこらの入口
+Shrine|ほこら
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Pedestal B|台座B
+Pedestal (Bottom B)|台座（下B）
+Pedestal B|台座B
+Shrine|ほこら
+Entrance (Shrine)|ほこらの入口
+Shrine|ほこら
+Stone Monument A|石碑A
+Stone Monument B|石碑B
+Stairs C (Left)|階段C（左）
+Stairs C (Center)|階段C（中央）
+Stairs C (Right)|階段C（右）
+Stairs D|階段D
+Stairs C (Left, Shadow)|階段C（左・影）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Stairs C (Left)|階段C（左）
+Stairs C (Center)|階段C（中央）
+Stairs C (Right)|階段C（右）
+Stairs D|階段D
+Stairs C (Left, Shadow)|階段C（左・影）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Large Stairs (Down)|大階段（下り）
+Stairs C (Left)|階段C（左）
+Stairs C (Center)|階段C（中央）
+Stairs C (Right)|階段C（右）
+Stairs D|階段D
+Stairs C (Left, Shadow)|階段C（左・影）
+Stairs (Hole)|階段（穴）
+Stairs (Down)|階段（下り）
+Stairs (Cover)|階段（蓋）
+Banister B|手すりB
+Banister B|手すりB
+Banister B|手すりB
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Large Stairs B (Up)|大階段B（上り）
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Slanting Stairs (Left)|斜め階段（左向き）
+|
+|
+Slanting Stairs (Right)|斜め階段（右向き）
+Wood Bridge A (H)|木の橋A（横）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Wood Bridge A (H)|木の橋A（横）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Wood Bridge A (H)|木の橋A（横）
+Wood Bridge A (V)|木の橋A（縦）
+Wood Bridge A (V)|木の橋A（縦）
+Wood Bridge A (V)|木の橋A（縦）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Wood Bridge B (H)|木の橋B（横）
+Wood Bridge A (V, Left, Bottom)|木の橋A（縦・左・下端）
+Wood Bridge A (V, Right, Bottom)|木の橋A（縦・右・下端）
+Slanting Stairs (Left, Shadow)|斜め階段（左向き・影）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Gazebo (Slip Through)|ガゼボ（すり抜け）
+Gazebo Floor|ガゼボの床
+Wood Bridge B (V)|木の橋B（縦）
+Slanting Stairs (Left, Shadow)|斜め階段（左向き・影）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Left)|斜め階段（左向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Slanting Stairs (Right)|斜め階段（右向き）
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+|
+Cannon (Left)|大砲（左向き）
+Cannon (Left)|大砲（左向き）
+Cannon (Right)|大砲（右向き）
+Cannon (Right)|大砲（右向き）
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Shadow (Gazebo)|ガゼボの影
+Cannon (Left)|大砲（左向き）
+Cannon (Left)|大砲（左向き）
+Cannon (Right)|大砲（右向き）
+Cannon (Right)|大砲（右向き）
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Shadow (Gazebo)|ガゼボの影
+Cannon (Top)|大砲（上向き）
+Cannon (Bottom)|大砲（下向き）
+Log Fence A|丸太の柵A
+Log Fence B (Top A)|丸太の柵B（上A）
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Shadow (Gazebo)|ガゼボの影
+Cannon (Top)|大砲（上向き）
+Cannon (Bottom)|大砲（下向き）
+Log Fence B (Top B)|丸太の柵B（上B）
+Log Fence B (Center)|丸太の柵B（中央）
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+Gazebo|ガゼボ
+|
+Crate C (Shell)|木箱C（砲弾）
+Shell|砲弾
+Log Fence B (Bottom B)|丸太の柵B（下B）
+Log Fence B (Bottom A)|丸太の柵B（下A）
