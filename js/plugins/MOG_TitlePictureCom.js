@@ -491,7 +491,7 @@ Scene_Title.prototype.createPictureCommands = function() {
 Scene_Title.prototype.createSubPicture = function() {
     this._subPictures = [];
 	for (i = 0; i < this._commandWindow._list.length; i++){
-		this._subPictures[i] = ImageManager.loadTitle2("Sub_" + i);
+		this._subPictures[i] = ImageManager.loadTitle2("Command_" + i);
 	};
 	this._subPic = new Sprite();
 	this._subPic.x = Moghunter.title_subPictureX;
